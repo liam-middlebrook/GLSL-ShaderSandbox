@@ -172,3 +172,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+#Force the bin directory to exist, but be empty
+!TestBed/bin
+TestBed/bin/*
