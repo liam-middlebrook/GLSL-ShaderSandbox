@@ -1,0 +1,6 @@
+http://glsl.heroku.com/e#16254.3
+http://glsl.heroku.com/e#15970.0
+http://glsl.heroku.com/e#15966.0
+http://glsl.heroku.com/e#15744.0
+http://glsl.heroku.com/e#16579.1
+http://people.freedesktop.org/~idr/OpenGL_tutorials/03-fragment-intro.html#id2827467
